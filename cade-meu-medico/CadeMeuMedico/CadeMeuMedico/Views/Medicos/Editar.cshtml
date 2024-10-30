@@ -1,0 +1,85 @@
+﻿@model CadeMeuMedico.Models.Medicos
+
+@{
+    ViewData["Title"] = "Editar";
+}
+
+<h1>Editar</h1>
+
+<h4>Medicos</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Editar">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="IdEspecialidade" class="control-label">
+                    Especialidade
+                </label>
+
+                <div class="col-md-10">
+                    @Html.DropDownListFor(model => model.IdEspecialidade, (SelectList)ViewBag.IdEspecialidade, "Selecione uma especialidade")
+                </div>
+
+                <span asp-validation-for="IdEspecialidade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Crm" class="control-label"></label>
+                <input asp-for="Crm" class="form-control" />
+                <span asp-validation-for="Crm" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label"></label>
+                <input asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Endereco" class="control-label"></label>
+                <input asp-for="Endereco" class="form-control" />
+                <span asp-validation-for="Endereco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Bairro" class="control-label"></label>
+                <input asp-for="Bairro" class="form-control" />
+                <span asp-validation-for="Bairro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdCidade" class="control-label">
+                    Cidade
+                </label>
+                <div class="col-md-10">
+                    @Html.DropDownListFor(model => model.IdCidade, (SelectList)ViewBag.IdCidade, "Selecione uma categoria")
+                </div>
+                <span asp-validation-for="IdCidade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="AtendePorConvenio" /> @Html.DisplayNameFor(model => model.AtendePorConvenio)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="TemClinica" /> @Html.DisplayNameFor(model => model.TemClinica)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="WebSiteBlog" class="control-label"></label>
+                <input asp-for="WebSiteBlog" class="form-control" />
+                <span asp-validation-for="WebSiteBlog" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Alterar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

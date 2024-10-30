@@ -1,0 +1,13 @@
+body {
+    background-color: darkgrey;
+    margin: 0;
+}
+
+nav{
+    background-color: blueviolet;
+    height: 50px;
+}
+
+footer{
+    background-color:cornflowerblue;
+}

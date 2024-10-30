@@ -1,0 +1,582 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\views\\medicos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\views\\medicos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\views\\medicos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\views\\medicos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\context\\medicoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\context\\medicoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\context\\contextodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\context\\contextodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\controllers\\mensagenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\controllers\\mensagenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\views\\medicos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\views\\medicos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\views\\medicos\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\views\\medicos\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\context\\cidadescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\context\\cidadescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\models\\medicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\models\\medicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\views\\shared\\_customlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\views\\shared\\_customlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\models\\cidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\models\\cidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\context\\especialidadescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\context\\especialidadescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\context\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\context\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\shared\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\shared\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\models\\paises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\models\\paises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\models\\medicosporespecialidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\models\\medicosporespecialidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\models\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\models\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\models\\especialidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\models\\especialidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\wwwroot\\css\\site-custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\wwwroot\\css\\site-custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\views\\testelayout\\teste2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\views\\testelayout\\teste2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\views\\testelayout\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\views\\testelayout\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\controllers\\testelayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\controllers\\testelayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|c:\\users\\allysons\\desktop\\allyson - desenvolvimento\\asp_net\\projeto-aspnetmvc-apostila\\cade-meu-medico\\cademeumedico\\cademeumedico\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DBBB913-C842-4226-863C-D264662BB9B1}|CadeMeuMedico\\CadeMeuMedico.csproj|solutionrelative:cademeumedico\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MedicosContext.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Context\\MedicosContext.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Context\\MedicosContext.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Context\\MedicosContext.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Context\\MedicosContext.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAG4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:39:53.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Medicos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Views\\Medicos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Medicos\\Delete.cshtml",
+              "RelativeToolTip": "CadeMeuMedico\\Views\\Medicos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T12:20:28.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicosController.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Controllers\\MedicosController.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Controllers\\MedicosController.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Controllers\\MedicosController.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Controllers\\MedicosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:29:50.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CadeMeuMedico\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T20:31:55.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CadeMeuMedico\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T20:30:40.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Program.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Program.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Program.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:31:33.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Medicos\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Views\\Medicos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Medicos\\Index.cshtml",
+              "RelativeToolTip": "CadeMeuMedico\\Views\\Medicos\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T17:13:30.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CadeMeuMedico\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T13:13:29.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:06:02.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContextoDB.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Context\\ContextoDB.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Context\\ContextoDB.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Context\\ContextoDB.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Context\\ContextoDB.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAIAwwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:33:25.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Medicos\\Editar.cshtml",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Views\\Medicos\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Medicos\\Editar.cshtml",
+              "RelativeToolTip": "CadeMeuMedico\\Views\\Medicos\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T18:44:08.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MensagensController.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Controllers\\MensagensController.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Controllers\\MensagensController.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Controllers\\MensagensController.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Controllers\\MensagensController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:19:52.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Adicionar.cshtml",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Medicos\\Adicionar.cshtml",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Views\\Medicos\\Adicionar.cshtml",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Medicos\\Adicionar.cshtml",
+              "RelativeToolTip": "CadeMeuMedico\\Views\\Medicos\\Adicionar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T19:53:25.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Medicos.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\Medicos.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Models\\Medicos.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\Medicos.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Models\\Medicos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:52:11.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CidadesContext.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Context\\CidadesContext.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Context\\CidadesContext.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Context\\CidadesContext.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Context\\CidadesContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:38:37.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_CustomLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Shared\\_CustomLayout.cshtml",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Views\\Shared\\_CustomLayout.cshtml",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Shared\\_CustomLayout.cshtml",
+              "RelativeToolTip": "CadeMeuMedico\\Views\\Shared\\_CustomLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T20:30:29.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CadeMeuMedico\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T17:20:32.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CadeMeuMedico\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T17:20:35.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cidades.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\Cidades.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Models\\Cidades.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\Cidades.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Models\\Cidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:08:25.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EspecialidadesContext.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Context\\EspecialidadesContext.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Context\\EspecialidadesContext.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Context\\EspecialidadesContext.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Context\\EspecialidadesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:42:45.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsuarioContext.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Context\\UsuarioContext.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Context\\UsuarioContext.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Context\\UsuarioContext.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Context\\UsuarioContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:26:01.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Shared\\Tools.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Shared\\Tools.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Shared\\Tools.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Shared\\Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:05:25.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Paises.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\Paises.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Models\\Paises.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\Paises.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Models\\Paises.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:14:07.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\Usuarios.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:48:00.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MedicosPorEspecialidades.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\MedicosPorEspecialidades.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Models\\MedicosPorEspecialidades.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\MedicosPorEspecialidades.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Models\\MedicosPorEspecialidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:19:21.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\appsettings.json",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\appsettings.json",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\appsettings.json",
+              "RelativeToolTip": "CadeMeuMedico\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T19:36:47.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Estados.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\Estados.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Models\\Estados.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\Estados.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Models\\Estados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:09:45.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Especialidades.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\Especialidades.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Models\\Especialidades.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\Especialidades.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Models\\Especialidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:20:52.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:09:02.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Teste2.cshtml",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\TesteLayout\\Teste2.cshtml",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Views\\TesteLayout\\Teste2.cshtml",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\TesteLayout\\Teste2.cshtml",
+              "RelativeToolTip": "CadeMeuMedico\\Views\\TesteLayout\\Teste2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:21:21.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Teste.cshtml",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\TesteLayout\\Teste.cshtml",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Views\\TesteLayout\\Teste.cshtml",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\TesteLayout\\Teste.cshtml",
+              "RelativeToolTip": "CadeMeuMedico\\Views\\TesteLayout\\Teste.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:07:28.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "site-custom.css",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\wwwroot\\css\\site-custom.css",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\wwwroot\\css\\site-custom.css",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\wwwroot\\css\\site-custom.css",
+              "RelativeToolTip": "CadeMeuMedico\\wwwroot\\css\\site-custom.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-11T20:43:09.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TesteLayoutController.cs",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Controllers\\TesteLayoutController.cs",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Controllers\\TesteLayoutController.cs",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Controllers\\TesteLayoutController.cs",
+              "RelativeToolTip": "CadeMeuMedico\\Controllers\\TesteLayoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:06:29.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CadeMeuMedico\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\AllysonS\\Desktop\\Allyson - Desenvolvimento\\ASP_NET\\Projeto-AspNetMVC-Apostila\\cade-meu-medico\\CadeMeuMedico\\CadeMeuMedico\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CadeMeuMedico\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T13:13:32.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
